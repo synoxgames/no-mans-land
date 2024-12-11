@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a7459240ba9ab3408de9c127bb3cf02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - talkSFX: {fileID: 8300000, guid: 20942d99ec124584ca72d7501f7e19f7, type: 3}
+  - dialogueArea: {instanceID: 0}
+  - expressionImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

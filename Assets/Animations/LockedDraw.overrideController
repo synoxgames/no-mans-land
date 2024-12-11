@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LockedDraw
+  m_Controller: {fileID: 9100000, guid: 4fff7dde7b76c884c82289cb1c03c0e9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cd6b2d3603be25745b051d1900508079, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b54eac9250650844eb23981e6eefeb8f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e4581fb9b2a67e4ab9d9a04335a470c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c99578b7ede7abd4593959a4916d828b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 165411dd2bd532447b2e4dcc3c5cc771, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 08406d0ddc189eb4295a03ff78415f40, type: 2}
