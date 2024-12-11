@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -631,7 +631,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Death_V2_17: -1986310544
+      Player_Death_V2_5: -1811486506
       Player_Death_V2_3: -2089121527
       Player_Death_V2_4: 1619317564
       Player_Death_V2_11: 1247222717
@@ -654,7 +654,7 @@ TextureImporter:
       Player_Death_V2_12: 803888951
       Player_Death_V2_22: -520336752
       Player_Death_V2_16: -663316443
-      Player_Death_V2_5: -1811486506
+      Player_Death_V2_17: -1986310544
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
